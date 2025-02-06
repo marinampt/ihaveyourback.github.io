@@ -1,0 +1,2 @@
+import{q as r}from"./single-type-defaults.fbd59219.js";import{q as e}from"./index.c6b826ff.js";const s=()=>`programs-page?${e.stringify({populate:{...r}},{encodeValuesOnly:!0})}`;export{s as q};
+//# sourceMappingURL=programs-page-thumbnail.142ff747.js.map

@@ -1,0 +1,119 @@
+.components-i18n--root--L9uZU[disabled] {
+    pointer-events: none;
+}
+
+.components-layout-horizontal-line--root--PeghJ {
+    border-bottom: var(--stroke--thick) dotted currentColor;
+    height: 0;
+    margin-left: calc(var(--unit--horizontal) * -1);
+    margin-right: calc(var(--unit--horizontal) * -1);
+    width: calc(100% + var(--unit--horizontal) * 2);
+}
+
+.components-core-text--root--FoTMS h1,
+.components-core-text--root--FoTMS h1 *,
+.components-core-text--root--FoTMS h2,
+.components-core-text--root--FoTMS h2 *,
+.components-core-text--root--FoTMS h3,
+.components-core-text--root--FoTMS h3 *,
+.components-core-text--root--FoTMS h4,
+.components-core-text--root--FoTMS h4 *,
+.components-core-text--root--FoTMS h5,
+.components-core-text--root--FoTMS h5 *,
+.components-core-text--root--FoTMS h6 {
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: 400;
+    line-height: inherit;
+    margin-bottom: var(--lh, 1em);
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
+.components-core-text--root--FoTMS a {
+    color: inherit;
+    text-decoration-line: underline;
+}
+
+.components-core-text--root--FoTMS a *,
+.components-core-text--root--FoTMS a:hover {
+    text-decoration-line: none;
+}
+
+.components-core-text--root--FoTMS code {
+    font-family: inherit;
+}
+
+.components-core-text--root--FoTMS ol,
+.components-core-text--root--FoTMS ul {
+    list-style-position: inside;
+    margin: 0;
+    margin-bottom: var(--lh, 1em);
+    padding: 0;
+}
+
+.components-core-text--root--FoTMS ol {
+    list-style: none;
+}
+
+.components-core-text--root--FoTMS ol li,
+.components-core-text--root--FoTMS ul li {
+    counter-increment: list-item;
+    padding-left: 2.5ch;
+    position: relative;
+}
+
+.components-core-text--root--FoTMS ol li:before {
+    content: counter(list-item, decimal) ". ";
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.components-core-text--root--FoTMS ul {
+    list-style: none;
+}
+
+.components-core-text--root--FoTMS ul li:before {
+    content: "–";
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.components-core-text--root--FoTMS p {
+    margin-bottom: var(--lh, 1em);
+    margin-top: 0;
+    text-align: left;
+}
+
+.components-core-text--root--FoTMS p:last-of-type {
+    margin-bottom: 0;
+}
+
+.components-core-text--root--FoTMS p:empty {
+    display: none;
+}
+
+.components-core-text--root--FoTMS b,
+.components-core-text--root--FoTMS strong {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.components-core-text--root--FoTMS sub,
+.components-core-text--root--FoTMS sup {
+    font-size: 65%;
+    line-height: 0;
+}
+
+.components-core-text--root--FoTMS blockquote {
+    font-size: var(--font-medium--font-size);
+    line-height: var(--font-medium--line-height);
+    margin: 0;
+}
+
+.components-core-text--root--FoTMS blockquote * {
+    text-decoration-thickness: var(--font-medium--text-decoration-thickness);
+    text-underline-offset: var(--font-medium--text-underline-offset);
+}
