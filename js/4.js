@@ -1,2 +1,0 @@
-import{_ as e,o as a,a as n,g as o,n as s,q as r}from"./entry.520837d9.js";const c="components-layout-text-with-bar--root--PG-da",l="components-layout-text-with-bar--bar--5T6ZS",_="components-layout-text-with-bar--text--vV8HT",p={root:c,bar:l,text:_},u={};function m(t,y){return a(),n("span",{class:s(t.$style.root)},[o("span",{class:s(t.$style.bar)},null,2),o("span",{class:s(t.$style.text)},[r(t.$slots,"default")],2)],2)}const d={$style:p},i=e(u,[["render",m],["__cssModules",d]]);export{i as _};
-//# sourceMappingURL=component.8af8ca1f.js.map

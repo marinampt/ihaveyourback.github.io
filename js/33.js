@@ -1,2 +1,0 @@
-import{t as r}from"./program-entry.3e31f563.js";import{q as a}from"./index.c6b826ff.js";const l=e=>`program-entries?${a.stringify({publicationState:(e==null?void 0:e.publicationState)||"live",sort:(e==null?void 0:e.sort)||["date_time_start:desc","date_time_end:asc"],filters:(e==null?void 0:e.filters)||[],pagination:{page:(e==null?void 0:e.page)||1,pageSize:(e==null?void 0:e.pageSize)||4},...r},{encodeValuesOnly:!0})}`;export{l as q};
-//# sourceMappingURL=program-entry-thumbnails.87f12357.js.map

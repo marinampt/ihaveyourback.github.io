@@ -1,2 +1,0 @@
-const t={fields:["date_time_start","date_time_end"],populate:{titles:!0,slugs:!0,tags:!0,introductions:!0,cover_image:!0,date_time_ranges:!0}};export{t};
-//# sourceMappingURL=program-entry.3e31f563.js.map

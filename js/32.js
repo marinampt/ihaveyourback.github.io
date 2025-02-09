@@ -1,2 +1,0 @@
-import{x as e}from"./entry.520837d9.js";const o=()=>{const{query:t}=e();return t.publicationState?{publicationState:t.publicationState}:{}};export{o as b};
-//# sourceMappingURL=get-publication-state-query.5cf5b695.js.map

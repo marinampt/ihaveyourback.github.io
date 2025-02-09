@@ -1,2 +1,0 @@
-const r=(t,l=30,a=!0)=>{var c,u;if(!t||typeof t!="string")return null;const e=(c=t==null?void 0:t.replace(/(<([^>]+)>)/gi,""))==null?void 0:c.split(/\s+/),n=(e==null?void 0:e.length)>l&&a===!0?" â€¦":"";return`${(u=e==null?void 0:e.slice(0,l))==null?void 0:u.join(" ")}${n}`};export{r as b};
-//# sourceMappingURL=truncate-string.5e0d4004.js.map

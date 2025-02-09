@@ -1,2 +1,0 @@
-import{q as e}from"./single-type-defaults.fbd59219.js";import{q as r}from"./index.c6b826ff.js";const n=()=>`publications-page?${r.stringify({populate:{...e}},{encodeValuesOnly:!0})}`;export{n as q};
-//# sourceMappingURL=publications-page-thumbnail.d2960ce2.js.map

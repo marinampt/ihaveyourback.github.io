@@ -1,2 +1,0 @@
-import{h as u}from"./entry.520837d9.js";const c=t=>{var e,r;const s=u(),{locale:p,locales:n}=s.$i18n;return t?(r=(e=n==null?void 0:n.value)==null?void 0:e.find(o=>(o==null?void 0:o.iso)===t))==null?void 0:r.code:null};export{c as b};
-//# sourceMappingURL=get-code-for-iso.2ec754d5.js.map

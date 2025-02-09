@@ -1,2 +1,0 @@
-import{o as e,a as t,g as o}from"./entry.520837d9.js";const s={xmlns:"http://www.w3.org/2000/svg","xml:space":"preserve",style:{"enable-background":"new 0 0 61.8 249.5"},viewBox:"0 0 61.8 249.5"},n=o("path",{d:"M61.7 50.9C33.3 29.5 30.8 0 30.8 0S28.3 29.5 0 50.9M30.8 0v249.4",class:"i2083203654__st0"},null,-1),c=[n];function a(r,_){return e(),t("svg",s,c)}const d={render:a};export{d as default,a as render};
-//# sourceMappingURL=clock-minute.1ed902dc.js.map
