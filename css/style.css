@@ -1,11 +1,10 @@
 @font-face {
     font-family: 'GrotesqueMTStd';
     src: url('font/GrotesqueMTStd.woff2') format('woff2'),
-         url('font/GrotesqueMTStd.woff') format('woff'),
-         url('font/GrotesqueMTStd.otf') format('opentype');
+         url('font/GrotesqueMTStd.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
+  }
 
 html, body, h1, h2, h3, a, div, p, span {
     font-family: 'GrotesqueMTStd', sans-serif;
