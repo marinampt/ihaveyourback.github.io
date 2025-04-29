@@ -50,10 +50,10 @@ html, body {
     position: absolute;
 }
 
-.svg-scale-wrapper svg {
-    width: 150%;
-    height: auto;
-  }
+.svg-scale-wrapper {
+    overflow-x: hidden;
+    position: relative;
+}
 
 .svg-container svg.active {
     display: block;
