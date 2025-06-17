@@ -1,13 +1,14 @@
 @font-face {
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
     src: url('font/GrotesqueMTStd.woff2') format('woff2'),
          url('font/GrotesqueMTStd.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap; 
   }
 
 html, body, h1, h2, h3, a, div, p, span {
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
 }
 
 html, body {
@@ -20,7 +21,7 @@ html, body {
     border-radius: 0;
     color: currentColor;
     cursor: pointer;
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
     font-size: inherit;
     line-height: inherit;
     margin: 0;
@@ -62,7 +63,7 @@ html, body {
 
 @media (max-width: 480px) {
     html, body, h1, h2, h3, a, div, p {
-        font-family: 'GrotesqueMTStd', sans-serif;
+        font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
     }
 }
 
@@ -78,7 +79,7 @@ html, body {
   }
 
   html, body, h1, h2, h3, a, div, p {
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
 }
 }
 
@@ -284,7 +285,7 @@ html[data-overflow-hidden] {
 }
 
 body {
-font-family: 'GrotesqueMTStd', sans-serif;    
+font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;    
 font-size: var(--font-default--font-size);
     margin: 0;
     padding: 0;
@@ -528,7 +529,7 @@ a {
 .core-text--root h6 {
     font-size: inherit;
     font-style: inherit;
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
     font-weight: 400;
     line-height: inherit;
     margin-bottom: var(--lh, 1em);
@@ -537,7 +538,7 @@ a {
 }
 
 .core-text--root code {
-    font-family: 'GrotesqueMTStd', sans-serif;
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;
 }
 
 .core-text--root blockquote * {
