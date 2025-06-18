@@ -285,10 +285,11 @@ html[data-overflow-hidden] {
 }
 
 body {
-font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif;    
+font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif !important;    
 font-size: var(--font-default--font-size);
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 * {
@@ -303,10 +304,11 @@ a {
     color: inherit;
 }
 
-@media (max-width: 768px) {
-
+@media screen and (max-width: 768px) {
+  body {
+    font-family: 'GrotesqueMTStd', Helvetica, Arial, sans-serif !important;
+  }
 }
-
 .navigation-site-header--linkToClose {
     color: var(--color--primary);
 }
