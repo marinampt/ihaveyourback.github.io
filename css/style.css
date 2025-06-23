@@ -12,6 +12,12 @@ html, body, h1, h2, h3, a, div, p, span {
 }
 
 html, body {
+  overflow-x: hidden;
+  position: relative;
+  width: 100vw;
+}
+
+html, body {
     max-width: 100%;
   }
 
