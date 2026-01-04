@@ -35,6 +35,14 @@ html, body {
     padding: 0;
 }
 
+.image-spacer {
+  margin-bottom: 240px;
+}
+
+.chapter-spacer {
+  margin-bottom: 80px;
+}
+
 .svg-container {
     width: 635px;
     height: 635px;
